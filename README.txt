@@ -1,1 +1,1 @@
-
+Upload every file in this folder to the top level of your existing GitHub portfolio repository. Replace the old HTML and keep CNAME. See replicate.html for complete steps. This package updates your GitHub-hosted portfolio after you commit the files; the ChatGPT preview is a separate hosted copy.
