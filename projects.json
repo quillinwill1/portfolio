@@ -1,0 +1,300 @@
+[
+  {
+    "id": "ai-agents",
+    "company": "Amazon WorkSpaces",
+    "type": "Product launch",
+    "title": "Launching WorkSpaces for AI agents.",
+    "short": "I led the go-to-market work, then helped developers try the feature through partner activation, hands-on workshops, and community pre-briefings.",
+    "focus": "AI capability → enterprise value",
+    "color": "navy",
+    "tags": [
+      "Positioning",
+      "GTM strategy",
+      "Sales enablement"
+    ],
+    "context": "Enterprises depend on desktop applications that are difficult to modernize or connect through APIs. WorkSpaces for AI agents provides a managed environment where agents can operate those applications.",
+    "role": "I brought Amazon WorkSpaces for AI agents to market. My work spanned positioning and messaging, sales enablement, executive thought leadership, analyst and press narratives, partner activation, and early customer advocacy. To support adoption, we focused on developer-oriented partners, AWS Summits, and third-party developer events. Community pre-briefings let developers walk through the feature, give feedback, and explore proof-of-concept use cases.",
+    "deliverables": [
+      "Enterprise positioning and messaging",
+      "Sales enablement and executive thought leadership",
+      "Analyst and press narratives, partner activation, and early advocacy",
+      "Developer community pre-briefings and feedback",
+      "Partner activation and hands-on developer workshops"
+    ],
+    "angle": "The feature was initially free to lower the barrier to testing. We tracked adopting accounts, session hours, and MCP-related usage to understand engagement beyond launch interest. Exact adoption figures are confidential. The product page below documents the offering; these program details describe my work.",
+    "assets": [
+      [
+        "Product page",
+        "https://aws.amazon.com/workspaces/ai-agents/",
+        "Shows the offering’s enterprise value proposition, benefits, and use cases."
+      ]
+    ],
+    "note": "",
+    "rolelabel": "Positioning and go-to-market",
+    "decision": "Treat early adoption as a learning problem, not only a launch problem. We initially made the feature free so accounts could test it before price became a barrier.",
+    "operating": "I brought Product, developer-oriented partners, the AWS developer community, and the field into one adoption motion: pre-briefings, hands-on workshops, third-party developer events, and proof-of-concept conversations.",
+    "evidence": "We monitored adopting accounts, session hours, and MCP-related usage to distinguish curiosity from active testing. Exact figures are confidential."
+  },
+  {
+    "id": "wickr",
+    "company": "AWS Wickr",
+    "type": "User enablement + storytelling",
+    "title": "Supporting Army Wickr adoption through user enablement.",
+    "short": "I built user enablement materials for the Army Wickr initiative and led video and customer story projects for AWS Wickr.",
+    "focus": "User education → adoption support",
+    "color": "blue",
+    "tags": [
+      "User enablement",
+      "Public sector",
+      "Customer storytelling"
+    ],
+    "context": "The U.S. Army reported on January 28, 2026 that it was nearing 100,000 registered Wickr users as the secure communications platform expanded across the force. My contribution to the initiative was building user enablement materials. Separately, my Wickr storytelling work included Focal Forensics, which uses the service for sensitive communications and file sharing.",
+    "role": "I contributed to the Army Wickr initiative by building user enablement materials. I also led two Wickr video projects and the Focal Forensics customer case study as part of my broader product marketing work across positioning, launches, sales enablement, and customer references.",
+    "deliverables": [
+      "User enablement materials supporting the Army Wickr initiative",
+      "Two AWS Wickr video projects",
+      "Focal Forensics customer case study"
+    ],
+    "angle": "This work spans user education and product storytelling: helping users understand the platform, and making secure collaboration concrete through public-facing video and customer examples.",
+    "assets": [
+      [
+        "Army adoption milestone — program context",
+        "https://www.army.mil/article/290211/army_nears_100000_wickr_users_as_secure_communications_platform_expands_across_the_force",
+        "U.S. Army Public Affairs, January 28, 2026: Army Wickr nears 100,000 registered users. My contribution was user enablement materials."
+      ],
+      [
+        "Focal Forensics story",
+        "https://aws.amazon.com/solutions/case-studies/focal-forensics-case-study/",
+        "Shows how secure collaboration supports sensitive customer work."
+      ],
+      [
+        "Wickr video 1",
+        "https://www.youtube.com/watch?v=8JYX_DH6XyE",
+        "One of the Wickr video projects I led."
+      ],
+      [
+        "Wickr video 2",
+        "https://www.youtube.com/watch?v=Zf7F3rBiFQg",
+        "A second Wickr video project I led."
+      ]
+    ],
+    "note": "Program context: the Army reported nearing 100,000 registered users on January 28, 2026. My contribution was building user enablement materials.",
+    "rolelabel": "User enablement and product storytelling",
+    "decision": "Make secure collaboration tangible through user education and customer stories instead of relying on security claims alone.",
+    "operating": "I built user-enablement materials for the Army Wickr initiative while leading video and customer-story work with internal teams and customers.",
+    "evidence": "The U.S. Army reported nearly 100,000 registered Wickr users in January 2026. This is program context; my contribution was user enablement."
+  },
+  {
+    "id": "manychat",
+    "company": "ManyChat",
+    "type": "Product launch",
+    "title": "Launching WhatsApp for conversational marketing.",
+    "short": "I led ManyChat’s WhatsApp launch, with a focus on expansion opportunities in LATAM and Brazil.",
+    "focus": "Customer insight → channel expansion",
+    "color": "sage",
+    "tags": [
+      "Channel expansion",
+      "Customer education",
+      "GTM strategy"
+    ],
+    "context": "WhatsApp extended ManyChat’s conversational marketing platform to a new channel for sales, marketing, and customer support. The public launch announcement is dated May 11, 2022.",
+    "role": "I led the launch and creation of the product page and announcement content, guided the setup guide, and collaborated with colleagues on a how-to video. The launch focused on LATAM and Brazil expansion opportunities.",
+    "deliverables": [
+      "Product page and launch announcement",
+      "Setup guide direction",
+      "How-to video collaboration"
+    ],
+    "angle": "This earlier launch complements my AWS WhatsApp work by showing experience bringing the same channel to market in a different platform and customer context.",
+    "assets": [
+      [
+        "Launch announcement",
+        "https://manychat.com/blog/manychat-launches-whatsapp/",
+        "Documents the launch, use cases, and original product context."
+      ],
+      [
+        "Setup guide",
+        "https://manychat.com/blog/guide-to-manychat-whatsapp/",
+        "A customer education asset supporting onboarding."
+      ]
+    ],
+    "note": "The launch announcement is credited to the Manychat Team. I led the launch and collaborated on the supporting content.",
+    "rolelabel": "Launch lead and customer education",
+    "decision": "Focus the WhatsApp launch on LATAM and Brazil, where the channel had a clear customer and market-expansion case.",
+    "operating": "I connected product messaging, the product page, announcement, setup guidance, and how-to content so customers had a clearer path from awareness to use.",
+    "evidence": "The public launch announcement and setup guide document the customer-facing materials. Launch performance details are not public."
+  },
+  {
+    "id": "aws-whatsapp",
+    "company": "AWS End User Messaging",
+    "type": "Product launch",
+    "title": "Launching WhatsApp messaging at AWS.",
+    "short": "I led the AWS WhatsApp messaging launch, bringing a new channel into an enterprise messaging portfolio.",
+    "focus": "A new channel. An enterprise audience.",
+    "color": "sage",
+    "tags": [
+      "Product launches",
+      "Messaging",
+      "Cross-functional GTM"
+    ],
+    "context": "Businesses use WhatsApp for notifications, reminders, updates, and conversational engagement. AWS End User Messaging brings these use cases into its enterprise messaging offering.",
+    "role": "I led the WhatsApp messaging launch at AWS. As primary PMM across AWS messaging and secure collaboration products, I owned positioning, launches, sales enablement, customer and competitive insights, and repeatable PMM processes across the products I supported.",
+    "deliverables": [
+      "WhatsApp product launch",
+      "Product marketing across the AWS messaging portfolio",
+      "Customer use-case messaging and field readiness within my broader remit"
+    ],
+    "angle": "This launch connects a widely used messaging channel with enterprise requirements for integration, security, and ongoing management.",
+    "assets": [
+      [
+        "WhatsApp product page",
+        "https://aws.amazon.com/end-user-messaging/whatsapp/",
+        "Shows the channel’s use cases, rich messaging capabilities, and integration story."
+      ]
+    ],
+    "note": "This launch followed my earlier work bringing WhatsApp to market at ManyChat.",
+    "decision": "Position a familiar consumer channel as an enterprise messaging capability with integration, governance, and ongoing management requirements.",
+    "operating": "As primary PMM for the portfolio, I aligned positioning, launch planning, customer use cases, enablement, and field readiness across stakeholders.",
+    "evidence": "The public product page shows the resulting enterprise use-case story. Internal launch-performance details are confidential."
+  },
+  {
+    "id": "workspaces-stories",
+    "company": "Amazon WorkSpaces",
+    "type": "Customer storytelling",
+    "title": "Building customer proof for Amazon WorkSpaces.",
+    "short": "I led customer case study projects with Docusign, Neo Financial, and the New Mexico Educational Retirement Board, documenting three distinct business cases for cloud workspaces.",
+    "focus": "Three customers. Three business cases.",
+    "color": "sand",
+    "tags": [
+      "Customer advocacy",
+      "Technical storytelling",
+      "Enterprise use cases"
+    ],
+    "context": "Cloud workspace buyers need evidence relevant to their environments. These stories cover contractor access and automation, secure browser access in financial services, and virtual desktop modernization in the public sector.",
+    "role": "I led these customer case study projects as part of my Amazon WorkSpaces product marketing work. The published stories connect each customer’s problem with the solution and reported business outcomes.",
+    "deliverables": [
+      "Docusign customer case study",
+      "Neo Financial customer case study",
+      "New Mexico Educational Retirement Board customer case study"
+    ],
+    "angle": "The value of this collection is its range: cost and onboarding efficiency, secure access, and operational continuity. Each gives a different audience a concrete way to understand the product.",
+    "assets": [
+      [
+        "Docusign",
+        "https://aws.amazon.com/solutions/case-studies/docusign-case-study/",
+        "Automation and contractor access: the story reports $15,000 in monthly savings."
+      ],
+      [
+        "Neo Financial",
+        "https://aws.amazon.com/solutions/case-studies/neo-financial-case-study/",
+        "Secure browser access: the story reports 40 hours of annual VPN maintenance avoided."
+      ],
+      [
+        "New Mexico ERB",
+        "https://aws.amazon.com/solutions/case-studies/nmerb-case-study/",
+        "VDI modernization: the story reports a 90% reduction in sign-on times."
+      ]
+    ],
+    "note": "Customer results reported in the linked AWS stories; my contribution was leading the case study projects.",
+    "decision": "Build customer proof around different buyer concerns rather than treating cloud workspaces as one generic story.",
+    "operating": "I led customer case-study projects across financial services, public sector, and enterprise use cases, coordinating source material and the published narrative with customer and internal teams.",
+    "evidence": "Published customer outcomes include $15,000 in monthly savings for Docusign, 40 annual VPN-maintenance hours avoided for Neo Financial, and a 90% reduction in sign-on times for New Mexico ERB. These are customer results, not personal marketing attribution."
+  },
+  {
+    "id": "netflix-ses",
+    "company": "Amazon SES",
+    "type": "Customer storytelling",
+    "title": "Telling the story of enterprise email at Netflix scale.",
+    "short": "I led the Netflix customer case study project for Amazon SES, showcasing scalable email delivery through a recognizable enterprise use case.",
+    "focus": "Enterprise email. Customer evidence.",
+    "color": "rose",
+    "tags": [
+      "Technical storytelling",
+      "Customer proof",
+      "Enterprise messaging"
+    ],
+    "context": "The published story describes Netflix’s move from an in-house email solution to Amazon SES, including deliverability, sender reputation, and operational considerations.",
+    "role": "I led this customer case study project as part of my product marketing work across AWS messaging services.",
+    "deliverables": [
+      "Netflix and Amazon SES customer case study"
+    ],
+    "angle": "The story connects technical email operations with the business need to reliably reach customers at scale.",
+    "assets": [
+      [
+        "Netflix and SES story",
+        "https://aws.amazon.com/solutions/case-studies/netflix-ses-case-study/",
+        "Reports inbox placement exceeding 99% and migration of all email sending to SES."
+      ]
+    ],
+    "note": "The linked story reports Netflix’s customer outcomes. My contribution was leading the case study project for Amazon SES.",
+    "decision": "Use a recognizable technical customer to make the operational value of email infrastructure easier for enterprise buyers to understand.",
+    "operating": "I led the case-study project, shaping the customer narrative around deliverability, sender reputation, and the operational realities of large-scale email.",
+    "evidence": "Netflix reported inbox placement above 99% and migration of all email sending to Amazon SES. These are customer outcomes reported in the public story."
+  },
+  {
+    "id": "glia",
+    "company": "Glia",
+    "type": "Product launch",
+    "title": "Bringing Secure Conversations to market.",
+    "short": "I led the Secure Conversations launch, connecting a financial-services use case with launch content and sales enablement.",
+    "focus": "A clearer story for secure conversations.",
+    "color": "blue",
+    "tags": [
+      "Product launches",
+      "Sales enablement",
+      "Financial services"
+    ],
+    "context": "Secure Conversations connects asynchronous secure messaging with real-time digital customer service, helping financial institutions support customers across different interaction needs.",
+    "role": "I led the Secure Conversations launch in April 2023, including the go-to-market overview, sales and training materials, and collaboration on web, video, ebook, and blog content. Across my Glia role, I also developed adoption programs and product training and partnered with Product and Sales on customer insights, pricing and packaging, commercialization strategy, and field readiness.",
+    "deliverables": [
+      "Secure Conversations launch planning and go-to-market overview",
+      "Sales and product training materials",
+      "Customer-facing webpage, video, ebook, and blog collaboration"
+    ],
+    "angle": "The public materials show how the product was connected to customer convenience and service continuity in financial services.",
+    "assets": [
+      [
+        "Product video",
+        "https://www.glia.com/video/secure-conversations",
+        "Explains the offering and its customer-service use case."
+      ],
+      [
+        "Secure messaging article",
+        "https://blog.glia.com/the-comfort-of-being-there-why-secure-messaging-is-still-powerful/",
+        "A supporting article developed with colleagues; the published byline belongs to another contributor."
+      ]
+    ],
+    "note": "Public examples reflect work completed with colleagues across the launch team.",
+    "decision": "Connect secure messaging to customer-service continuity and convenience for financial institutions, rather than positioning it as a standalone feature.",
+    "operating": "I owned the launch overview, sales and training materials, and cross-functional development of web, video, ebook, and blog content; I also partnered on adoption programs, pricing and packaging, and field readiness.",
+    "evidence": "The launch contributed to new revenue and upsell activity, while ongoing enablement and newsletter programs improved product adoption. Specific figures are confidential."
+  },
+  {
+    "id": "reinvent",
+    "company": "AWS re:Invent",
+    "type": "Event programming and product narrative",
+    "title": "Directing the product story at re:Invent.",
+    "short": "I led the product-marketing direction for sessions, customer speakers, partner involvement, booth planning, and messaging across two re:Invent cycles.",
+    "focus": "Product narrative → event experience",
+    "color": "navy",
+    "tags": [
+      "Event strategy",
+      "Customer speakers",
+      "Cross-functional planning"
+    ],
+    "context": "A major event has many customer touchpoints, but the product story needs to stay coherent from session selection through booth messaging, customer proof, and partner participation.",
+    "role": "I led programming and product-marketing direction for my portfolio at AWS re:Invent. I selected session topics and customer speakers, shaped how partners participated, led booth-planning inputs, and planned and reviewed the messaging used throughout the sessions and booth experience.",
+    "deliverables": [
+      "Session strategy, topics, and content direction",
+      "Customer-speaker selection and preparation",
+      "Partner-involvement planning",
+      "Booth narrative, planning inputs, and message review"
+    ],
+    "angle": "The work combined program management with product-marketing judgment: deciding which stories belonged on the agenda, whose experience could prove the value, and how every event surface should reinforce the same narrative.",
+    "assets": [],
+    "note": "Event-program details, audience figures, and performance results are confidential.",
+    "rolelabel": "Event programming and product narrative",
+    "decision": "Treat the event as one product-marketing experience instead of a collection of disconnected sessions, meetings, and booth moments.",
+    "operating": "I mapped the story across sessions, speakers, partners, booth content, and stakeholder reviews—then kept decisions, dependencies, and message approval moving across teams.",
+    "evidence": "Across two re:Invent cycles, the resulting programming brought product priorities into customer sessions, partner activity, booth planning, and executive and customer meetings. Detailed event metrics are confidential."
+  }
+]
